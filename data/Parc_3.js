@@ -1,0 +1,1 @@
+var json_Parc_3 = {"type":"FeatureCollection","name":"Parc_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Secteur":"Parc Isalo","Descript":"Test"},"geometry":{"type":"Point","coordinates":[45.27251018308759,-22.425736871374948]}}]}
